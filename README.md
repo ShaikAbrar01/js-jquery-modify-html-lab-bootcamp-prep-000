@@ -1,4 +1,4 @@
-# Puppies + Babies
+# Puppies + Babies ( A best place to learn )
 
 ## Objectives
 + Load jQuery in HTML file
